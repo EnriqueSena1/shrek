@@ -1,0 +1,32 @@
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color:rgb(27, 26, 11);
+    text-align: center ;
+    
+}
+h1{
+    color: rgb(58, 179, 27);
+    
+}
+.botaogit{
+    
+    width: 650px;
+    height: 100px;
+    background-repeat: auto;    
+    background-color: rgb(13, 121, 61);
+    padding: auto;
+    margin: auto;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.textogit{
+    color: wheat;
+    font-size: 50px;
+    
+}
+img{
+    width: 650px;
+    height: auto;
+    margin: auto;
+}
